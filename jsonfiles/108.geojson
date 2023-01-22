@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "LastTrackdt": "2022-09-26T12:57:05", "location": { "type": "Point", "coordinates": [ 72.969617, 19.266551 ] }, "location.coordinates.lon": 72.969617, "location.coordinates.lat": 19.266551, "VehId": 108, "newspeed": 3.7136888420556704 }, "geometry": { "type": "Point", "coordinates": [ 72.969617, 19.266551 ] } },
+{ "type": "Feature", "properties": { "LastTrackdt": "2022-09-26T13:26:25", "location": { "type": "Point", "coordinates": [ 72.969453, 19.266408 ] }, "location.coordinates.lon": 72.969453, "location.coordinates.lat": 19.266408, "VehId": 108, "newspeed": 0.78016786064930665 }, "geometry": { "type": "Point", "coordinates": [ 72.969453, 19.266408 ] } },
+{ "type": "Feature", "properties": { "LastTrackdt": "2022-09-26T13:27:53", "location": { "type": "Point", "coordinates": [ 72.96932, 19.266415 ] }, "location.coordinates.lon": 72.96932, "location.coordinates.lat": 19.266415, "VehId": 108, "newspeed": 0.1795237901822386 }, "geometry": { "type": "Point", "coordinates": [ 72.96932, 19.266415 ] } }
+]
+}

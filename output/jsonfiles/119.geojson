@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "location": { "type": "Point", "coordinates": [ 72.968431, 19.266795 ] }, "location.coordinates.lon": 72.968431, "location.coordinates.lat": 19.266795, "VehId": 119, "newspeed": 16.252462699378381, "t": "2022-09-29T16:12:17", "prev_t": "2022-09-29T16:12:14" }, "geometry": { "type": "LineString", "coordinates": [ [ 72.968382, 19.266357 ], [ 72.968431, 19.266795 ] ] } },
+{ "type": "Feature", "properties": { "location": { "type": "Point", "coordinates": [ 72.96852, 19.266333 ] }, "location.coordinates.lon": 72.96852, "location.coordinates.lat": 19.266333, "VehId": 119, "newspeed": 2.3631809841888671, "t": "2022-09-29T16:14:17", "prev_t": "2022-09-29T16:13:55" }, "geometry": { "type": "LineString", "coordinates": [ [ 72.968431, 19.266795 ], [ 72.96852, 19.266333 ] ] } },
+{ "type": "Feature", "properties": { "location": { "type": "Point", "coordinates": [ 72.96872, 19.266468 ] }, "location.coordinates.lon": 72.96872, "location.coordinates.lat": 19.266468, "VehId": 119, "newspeed": 1.9841911709331765, "t": "2022-09-29T16:18:03", "prev_t": "2022-09-29T16:17:50" }, "geometry": { "type": "LineString", "coordinates": [ [ 72.96852, 19.266333 ], [ 72.96872, 19.266468 ] ] } },
+{ "type": "Feature", "properties": { "location": { "type": "Point", "coordinates": [ 72.968817, 19.266431 ] }, "location.coordinates.lon": 72.968817, "location.coordinates.lat": 19.266431, "VehId": 119, "newspeed": 0.11446628905084492, "t": "2022-09-29T16:19:39", "prev_t": "2022-09-29T16:18:03" }, "geometry": { "type": "LineString", "coordinates": [ [ 72.96872, 19.266468 ], [ 72.968817, 19.266431 ] ] } }
+]
+}
